@@ -3,7 +3,7 @@
 #Overview:
 Machine learning model to predict the winner between two entered fighters based on their statistics (weight, wins, losses, etc.) from a UFC fighters dataset, using Logistic Regression.
 
-#Technologies Used: -Python  -pandas   -scikit-learn   -numpy
+#Technologies Used: -Python<br>  -pandas   -scikit-learn   -numpy
 
 #Dataset:   -Weight   -Wins   -Losses   -Fighter Reach in cm.   -Significant strikes landed per_minute   -Significant striking accuracy   -Significant strikes absorbed per_minute   -Significant strike defence
    -Average takedowns landed per_15_minutes   -Takedown accuracy   -Takedown defense   -Average submissions attempted per_15_minutes
