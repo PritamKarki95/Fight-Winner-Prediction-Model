@@ -14,7 +14,7 @@ Machine learning model to predict the winner between two entered fighters based 
 -Wins<br>
 -Losses<br>
 -Fighter<br> 
--Reach in cm.<br>
+-Reach in cm<br>
 -Significant strikes landed per_minute<br>
 -Significant striking accuracy<br>
 -Significant strikes absorbed per_minute<br>
