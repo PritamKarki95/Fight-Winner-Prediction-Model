@@ -17,7 +17,7 @@ Machine learning model to predict the winner between two entered fighters based 
 -Reach in cm.<br>
 -Significant strikes landed per_minute<br>
 -Significant striking accuracy<br>
--Significant strikes absorbed per_minute<br>  
+-Significant strikes absorbed per_minute<br>
 -Significant strike defence<br>
 -Average takedowns landed per_15_minutes<br>
 -Takedown accuracy<br>
